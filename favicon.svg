@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- First "M" -->
+  <path d="M15 70 L25 30 L35 65 L45 30 L55 70" 
+        stroke="#88a0a8" 
+        stroke-width="6" 
+        fill="none" 
+        stroke-linejoin="round"/>
+  
+  <!-- Second "M" -->
+  <path d="M45 70 L55 30 L65 65 L75 30 L85 70" 
+        stroke="#88a0a8" 
+        stroke-width="6" 
+        fill="none" 
+        stroke-linejoin="round"/>
+  
+  <!-- Small registered trademark symbol -->
+  <text x="80" y="25" 
+        font-family="Arial" 
+        font-size="10" 
+        fill="#88a0a8">®</text>
+</svg>
